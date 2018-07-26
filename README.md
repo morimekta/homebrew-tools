@@ -1,2 +1,3 @@
 # brew-taps
-Morimekta brew taps.
+
+Morimekta homebrew tools.
