@@ -1,4 +1,4 @@
-class IdlTool < Formula
+class Idltool < Formula
     desc "IDL Tool"
     homepage "https://github.com/morimekta/idltool/"
     version "1.3"
