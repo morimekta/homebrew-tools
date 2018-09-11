@@ -1,9 +1,9 @@
 class Providence < Formula
     desc "Providence Tools"
     homepage "http://www.morimekta.net/providence"
-    version "1.6.1"
-    url "https://github.com/morimekta/providence/releases/download/v#{version}/providence-tools-#{version}.tar.gz"
-    sha256 "3be8f1f82506e81f0c51092c6ca5fa02043d66a731736685f6afbef63cddd6a7"
+    version "1.7.0"
+    url "https://bintray.com/morimekta/archive/download_file?file_path=providence-tools-#{version}.tar.gz"
+    sha256 "17d403a20553775a374be2b92c75c6eee55485456392c364896e95d7cfede8de"
 
     depends_on :java => "1.8+"
 
