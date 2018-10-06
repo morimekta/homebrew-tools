@@ -8,6 +8,6 @@ class ProvidenceJs < Formula
     depends_on :java => "1.8+", :providence => "1.0.0+"
 
     def install
-        share.install Dir["share/*"]
+        share.install Dir["share/providence/generator/*"]
     end
 end
