@@ -1,9 +1,9 @@
 class Idltool < Formula
     desc "IDL Tool"
     homepage "https://www.morimekta.net"
-    version "2.1"
+    version "3.0"
     url "https://bintray.com/morimekta/archive/download_file?file_path=idltool-#{version}.tar.gz"
-    sha256 "0192a43feb173eaaa1954ff8c3196c5a15e0dd1a7895d41ca270440acd102dc1"
+    sha256 "5941e546065ee52c0ac1d92814f6429bf2f83e6a91ad96c092d0bf1b5ab918a4"
 
     depends_on :java => "1.8+"
 
