@@ -1,9 +1,9 @@
 class SemverPy < Formula
     desc "SemverPy"
     homepage "http://gitlab.com/morimekta/semver"
-    version "0.1.1"
+    version "0.2.0"
     url "https://dl.morimekta.net/archive/semver-py-#{version}.tar.gz"
-    sha256 "c5881ae05b8b9eb611f724322c561f9a2c1f5babbf9d7708f58289d99e726e5e"
+    sha256 "6943089a76db4de1931eee5a7c0f42610f2623a3b1879cc219727aacaec573bd"
 
     # depends_on :python => "3.8+"
 
