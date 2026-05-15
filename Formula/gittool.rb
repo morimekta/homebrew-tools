@@ -14,5 +14,6 @@ class Gittool < Formula
                "-ldflags", "-X main.version=v#{version}",
                "-o", bin/"gt",
                "./gt"
+        (share/"gittool").install "share/diffall.vim"
     end
 end
